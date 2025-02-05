@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Leonardo Galves</title>
-    <link>https://lsgalves.com/categories/</link>
+    <link>https://ls.galv.es/categories/</link>
     <description>Recent content in Categories on Leonardo Galves</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt</language>
-    <copyright>Veja [aqui](https://github.com/lsgalves/lsgalves.com) o código-fonte deste site, licenciado sob GPLv3 ·</copyright><atom:link href="https://lsgalves.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>pt-br</language>
+    <copyright>Veja [aqui](https://github.com/lsgalves/ls.galv.es) o código-fonte deste site, licenciado sob GPLv3</copyright><atom:link href="https://ls.galv.es/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
 

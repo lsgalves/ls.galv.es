@@ -2,64 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lsgalves.com/categories/</loc>
+    <loc>https://ls.galv.es/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lsgalves.com/en/categories/"
+                href="https://ls.galv.es/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://lsgalves.com/categories/"
+                href="https://ls.galv.es/categories/"
                 />
   </url><url>
-    <loc>https://lsgalves.com/</loc>
+    <loc>https://ls.galv.es/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lsgalves.com/en/"
+                href="https://ls.galv.es/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://lsgalves.com/"
+                href="https://ls.galv.es/"
                 />
   </url><url>
-    <loc>https://lsgalves.com/search/</loc>
+    <loc>https://ls.galv.es/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lsgalves.com/en/search/"
+                href="https://ls.galv.es/en/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://lsgalves.com/search/"
+                href="https://ls.galv.es/search/"
                 />
   </url><url>
-    <loc>https://lsgalves.com/about/</loc>
+    <loc>https://ls.galv.es/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lsgalves.com/en/about/"
+                href="https://ls.galv.es/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://lsgalves.com/about/"
+                href="https://ls.galv.es/about/"
                 />
   </url><url>
-    <loc>https://lsgalves.com/tags/</loc>
+    <loc>https://ls.galv.es/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lsgalves.com/en/tags/"
+                href="https://ls.galv.es/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://lsgalves.com/tags/"
+                href="https://ls.galv.es/tags/"
                 />
   </url>
 </urlset>
