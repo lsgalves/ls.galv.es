@@ -2,7 +2,7 @@ baseURL: https://ls.galv.es/
 title: Leonardo Galves
 languageCode: pt
 theme: PaperMod
-copyright: "Veja [aqui](https://github.com/lsgalves/ls.galv.es) o código-fonte deste site, licenciado sob GPLv3 ·"
+copyright: "Veja [aqui](https://github.com/lsgalves/ls.galv.es) o código-fonte deste site, licenciado sob GPLv3"
 defaultContentLanguage: pt-br
 googleAnalytics: G-7JMY8BD3WH
 disqusShortname: lsgalves
@@ -17,12 +17,7 @@ paginate: 10
 languages:
   pt-br:
     languageName: ":flag_br:"
-    languageAltTitle: Portuguese
     weight: 1
-    homeInfoParams:
-      BannerLight: "/banner-light-theme.png"
-      BannerDark: "/banner-dark-theme.png"
-      Content: Apenas um blog onde despejo coisas sobre tecnologia.
     menu:
       main:
         - name: Sobre
@@ -33,16 +28,17 @@ languages:
           weight: 3
         - name: Git
           url: https://git.galv.es/
+    params:
+      languageAltTitle: Portuguese
+      homeInfoParams:
+        BannerLight: "/banner-light-theme.png"
+        BannerDark: "/banner-dark-theme.png"
+        Content: Apenas um blog onde despejo coisas sobre tecnologia.
 
   en:
     languageName: ":us:"
-    languageAltTitle: Inglês
-    copyright: "See this site's source code [here](https://github.com/lsgalves/ls.galv.es), licensed under GPLv3 ·"
+    copyright: "See this site's source code [here](https://github.com/lsgalves/ls.galv.es), licensed under GPLv3"
     weight: 1
-    homeInfoParams:
-      BannerLight: "/banner-light-theme.png"
-      BannerDark: "/banner-dark-theme.png"
-      Content: Just a blog where I dump stuff about technology.
     menu:
       main:
         - name: About
@@ -53,6 +49,12 @@ languages:
           weight: 3
         - name: Git
           url: https://git.galv.es/
+    params:
+      languageAltTitle: Inglês
+      homeInfoParams:
+        BannerLight: "/banner-light-theme.png"
+        BannerDark: "/banner-dark-theme.png"
+        Content: Just a blog where I dump stuff about technology.
 
 params:
   env: production
